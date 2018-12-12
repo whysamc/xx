@@ -1,3 +1,8 @@
+---
+layout: post
+title: Wget - The Brilliant Downloader
+---
+
 #Wget - The brilliant downloader
 
 I used wget extensively over the week to automate downloading of hundreds of elearning resources so I could use them offline. The time spent learning to use wget is a good investment because it’s extremely good as a downloading tool that’s lightweight and versatile. (Plus, wget supports recursive download compared to curl).
